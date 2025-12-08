@@ -23,19 +23,13 @@ navbar-links:
   Home: ""
   Research: "research"
   CV: "cv"
-url: "https://haianhpham.com"
-baseurl: ""
+  url: "https://haianhpham.com"
+  baseurl: ""
 
 ################
 # --- Logo --- #
 ################
 
-# Image to show in the navigation bar - works best with a square image
-# Remove this parameter if you don't want an image in the navbar
-#avatar: "/assets/img/avatar-icon.png"
-
-# By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
-#round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
@@ -52,37 +46,14 @@ baseurl: ""
 social-network-links:
   email: "haianh.pham@uq.edu.au"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  #facebook: deanattali
   #github: haianh-pham
   #twitter: 
-  #patreon: 
   #youtube: "@daattali"
-  #whatsapp: 15551212
-#  medium: yourname
-#  reddit: yourname or r/yoursubreddit
   linkedin: "https://www.linkedin.com/in/hai-anh-pham-816b5b201"
-#  xing: yourname
 #  stackoverflow: "3943160/daattali"
-#  snapchat: 
-#  instagram: 
-#  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
-#  twitch: yourname
-#  yelp: yourname
-#  telegram: yourname
-#  calendly: yourname
-#  mastodon: instance.url/@username
-#  bluesky: yourname
   ORCID: 0009-0004-1052-8754
 #  google-scholar: your google scholar
 #  discord: "invite_code" or "users/userid" or "invite/invite_code"
-#  kaggle: yourname
-#  hackerrank: yourname
-#  gitlab: yourname
-#  itchio: yourname
-#  untappd: yourname
-#  strava: youruserid
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
@@ -251,9 +222,6 @@ footer-hover-col: "#0085A1"
 
 # Ruby Date Format to show dates of posts
 date_format: "%B %-d, %Y"
-
-# Facebook App ID
-#fb_app_id: ""
 
 #################################################################################
 # --- You don't need to touch anything below here (but you can if you want) --- #
