@@ -24,7 +24,7 @@ baseurl: ""
 ###############################################
 
 navbar-links:
-  Home: ""
+  Home: "index.html"
   Research: "research"
   CV: "cv"
 
