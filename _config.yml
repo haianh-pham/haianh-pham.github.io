@@ -15,6 +15,10 @@ title: Hai Anh Pham
 # Your name to show in the footer
 author: Hai Anh Pham
 
+# Website URL settings (ADD THESE HERE)
+url: "https://haianhpham.com"
+baseurl: ""
+
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
@@ -23,9 +27,8 @@ navbar-links:
   Home: ""
   Research: "research"
   CV: "cv"
-  url: "https://haianhpham.com"
-  baseurl: ""
 
+  
 ################
 # --- Logo --- #
 ################
