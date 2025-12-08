@@ -21,8 +21,8 @@ author: Hai Anh Pham
 
 navbar-links:
   Home: ""
-  Research: "Research"
-  CV: "CV"
+  Research: "research"
+  CV: "cv"
 url: "https://haianhpham.com"
 baseurl: ""
 
