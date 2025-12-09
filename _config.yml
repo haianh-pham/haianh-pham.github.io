@@ -24,7 +24,7 @@ baseurl: ""
 ###############################################
 
 navbar-links:
-  Home: "index.html"
+  Home: "/"
   Research: "research"
   CV: "cv"
 
@@ -47,12 +47,12 @@ navbar-links:
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "haianh.pham@uq.edu.au"
+  email: "haianhpham@outlook.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
   #github: haianh-pham
   #twitter: 
   #youtube: "@daattali"
-  linkedin: "https://www.linkedin.com/in/hai-anh-pham-816b5b201"
+  linkedin: "https://www.linkedin.com/in/hai-anh-pham-816b5b201/?originalSubdomain=jp"
 #  stackoverflow: "3943160/daattali"
   ORCID: 0009-0004-1052-8754
 #  google-scholar: your google scholar
