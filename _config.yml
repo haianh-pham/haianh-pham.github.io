@@ -114,7 +114,8 @@ page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-navbar-col: "#f2ebeb" ##EAEAEA
+navbar-col: "#f2ebeb" 
+# original navbar-col: #EAEAEA
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
 footer-col: "#EAEAEA"
